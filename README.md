@@ -1,4 +1,4 @@
-# BankYuhu_NetBeans
+# BankNetBeans
 
 ##SCREENSHOOT
 ![1](https://cloud.githubusercontent.com/assets/22117431/22812086/51541264-ef75-11e6-8d3f-d2ef6849b662.PNG)
